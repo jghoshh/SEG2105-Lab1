@@ -1,2 +1,4 @@
 # SEG2105-Lab1
-SEG2105 Lab 1
+
+Members:
+- Alexander Azizi-Martin
